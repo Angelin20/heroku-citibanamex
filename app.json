@@ -6,16 +6,18 @@
     "env": {
         "GATEWAY_MERCHANT_ID": {
             "required": true,
-            "description": "TEST1139550"
+            "description": "TEST1139550",
+            "value": "TEST1139550"
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
-            "description": "a12a987f3011853d5660a0111b39d711"
+            "description": "a12a987f3011853d5660a0111b39d711",
+            "value": "a12a987f3011853d5660a0111b39d711"
         },
         "GATEWAY_REGION": {
             "required": true,
             "description": "NORTH_AMERICA",
-            "value": "MTF"
+            "value": "NORTH_AMERICA"
         },
         "GATEWAY_API_VERSION": {
             "required": true,
