@@ -11,8 +11,8 @@
         },
         "GATEWAY_API_PASSWORD": {
             "required": true,
-            "description": "a12a987f3011853d5660a0111b39d711",
-            "value": "a12a987f3011853d5660a0111b39d711"
+            "description": "f9a001ef4b02c724596e1da21e0a1d97",
+            "value": "f9a001ef4b02c724596e1da21e0a1d97"
         },
         "GATEWAY_REGION": {
             "required": true,
